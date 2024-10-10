@@ -1,2 +1,4 @@
-# Farming Macro Mod 1.8.9 
-## Get Good Get Macro 
+<img src="https://github.com/MehVahdJukaar/dynamic_badges/blob/master/discord.svg?raw=true" alt="Supplementaries Discord" width="163" height="56"> <img src="https://github.com/MehVahdJukaar/dynamic_badges/blob/master/patreon.svg?raw=true" alt="Support me on Patreon" width="180" height="56"> <img src="https://badges.penpow.dev/badges/social/twitter-plural/cozy.svg" alt="Supplementaries Twitter" width="189" height="55"> <img src="https://github.com/MehVahdJukaar/dynamic_badges/blob/master/youtube.svg?raw=true" alt="Youtube Channel" width="183" height="50">
+
+
+### Supplementaries is a highly configurable Forge mod focused on adding valuable content which fills the gaps vanilla has. Its features are tailored to be functional, aesthetically viable, and complementary to preexisting content and provide many new ways to enhance your Vanilla+ experience.
